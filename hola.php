@@ -23,9 +23,9 @@ require_once('modals/crear_mundos.php');
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hola_mundo">
   	CREAR MUNDO
   </button>
-    <a href="holados.php"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#hola_mundo"></button></a>
-    DESTRUIR MUNDO
-  </button>
+    <a href="holados.php"><button type="button" class="btn btn-danger" data-toggle="modal" data-target="#hola_mundo">
+    Hola Jacky
+  </button></a>
 </div>
  
  </body>
