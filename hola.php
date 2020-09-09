@@ -21,7 +21,7 @@ require_once('modals/crear_mundos.php');
  <div class="content-wrapper" >
   <!-- Button to Open the Modal -->
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#hola_mundo">
-  	CREAR MUNDO
+  	CREAR MUNDOS
   </button>
     <a href="holados.php"><button type="button" class="btn btn-danger">
     Hola Jacky
